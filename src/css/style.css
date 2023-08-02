@@ -1,0 +1,40 @@
+.body {
+  background-image: url("../media/backgroundLp.png");
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.logo {
+  width: 200px;
+  padding: 15px;
+  place-content: center;
+}
+
+.logodiv {
+  text-align: center;
+}
+
+.container {
+  width: 40%;
+  padding: 1rem;
+  margin: 50px;
+  background-color: #121111;
+}
+
+.inputs {
+  padding: 0rem 2rem;
+}
+
+.divbtn {
+  text-align: center;
+}
+
+.radio, .check, .check2 {
+  padding: 0.5rem 2rem;
+}
+
+.form-check-inline {
+  margin: 10px 0px;
+}
+
+/*# sourceMappingURL=style.css.map */
